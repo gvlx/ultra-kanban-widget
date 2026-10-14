@@ -82,7 +82,7 @@ For local testing or debugging:
 
 ## License
 
-This repository does not currently declare a license in the GitHub metadata. Please check the repository's legal status before using or distributing it in production.
+This repository uses the AGPLv3 license. Read LICENSE for details.
 
 ## Contributing
 
